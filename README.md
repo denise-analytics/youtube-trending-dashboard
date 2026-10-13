@@ -115,7 +115,7 @@ O script reproduz os principais indicadores usados no dashboard e na apresentaç
 
 - [Dashboard interativo no Tableau Public](https://public.tableau.com/app/profile/denise.duarte2886/viz/DashboarddeTendnciasdoYouTube_17914333984600/DashboarddetendnciasdoYouTube)
 - [Apresentação executiva em PDF](reports/Analise_Tendencias_YouTube.pdf)
-- [Apresentação editável em PowerPoint](reports/Analise_Tendencias_YouTube.pptx)
+- [Baixar apresentação editável em PowerPoint](https://github.com/denise-analytics/youtube-trending-dashboard/raw/refs/heads/main/reports/Analise_Tendencias_YouTube.pptx)
 - [Script de validação das métricas](analysis/validate_metrics.py)
 
 ## Autora
